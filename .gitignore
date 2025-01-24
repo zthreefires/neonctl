@@ -10,3 +10,7 @@ bundle/
 coverage
 tmp/
 .history
+
+.vite
+dist
+*.tsbuildinfo
